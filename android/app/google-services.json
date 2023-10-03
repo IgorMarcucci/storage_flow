@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707034387204",
+    "project_id": "fluxoestoque",
+    "storage_bucket": "fluxoestoque.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707034387204:android:abce69cb167521e5e27651",
+        "android_client_info": {
+          "package_name": "com.example.storage_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmi9a5IxvVQEaTzLa54bGWq48FhgPjiKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
