@@ -47,28 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAWUOZzqr_cvYPVWo4Wcn1OWFTbCn64upY',
-    appId: '1:707034387204:web:d40f6ea94d2adbbfe27651',
-    messagingSenderId: '707034387204',
-    projectId: 'fluxoestoque',
-    authDomain: 'fluxoestoque.firebaseapp.com',
-    storageBucket: 'fluxoestoque.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDmi9a5IxvVQEaTzLa54bGWq48FhgPjiKw',
-    appId: '1:707034387204:android:abce69cb167521e5e27651',
-    messagingSenderId: '707034387204',
-    projectId: 'fluxoestoque',
-    storageBucket: 'fluxoestoque.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCadEO6lN4Z-8NNFbBpdzbdyTI5dRcwRAM',
-    appId: '1:707034387204:ios:c2ec0b1a23e5ac3ee27651',
-    messagingSenderId: '707034387204',
-    projectId: 'fluxoestoque',
-    storageBucket: 'fluxoestoque.appspot.com',
-    iosBundleId: 'com.example.storageFlow',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }

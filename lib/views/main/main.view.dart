@@ -127,24 +127,6 @@ class _MainViewState extends State<MainView> {
                                   width: MediaQuery.of(context).size.width,
                                   child: Center(
                                     child: Text(
-                                      'Sobre nós',
-                                      style: tema.rodapeTextBlack,
-                                      overflow: TextOverflow.clip,
-                                      maxLines: 2,
-                                      softWrap: true,
-                                    ),
-                                  ),
-                                ),
-                                onTap: () {
-                                  context.push('/about-me');
-                                },
-                              ),
-                              ListTile(
-                                title: SizedBox(
-                                  height: 42,
-                                  width: MediaQuery.of(context).size.width,
-                                  child: Center(
-                                    child: Text(
                                       'Sair',
                                       style: tema.rodapeTextBlack,
                                       overflow: TextOverflow.clip,

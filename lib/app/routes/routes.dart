@@ -1,5 +1,4 @@
 import 'package:go_router/go_router.dart';
-import 'package:storage_flow/views/about-me/about_me.view.dart';
 import 'package:storage_flow/views/add-product/add-product.view.dart';
 import 'package:storage_flow/views/change-pass/change_pass_view.dart';
 import 'package:storage_flow/views/login/login.view.dart';
@@ -25,12 +24,6 @@ final GoRouter routes = GoRouter(
       path: '/main',
       builder: (context, state) {
         return const MainView();
-      },
-    ),
-    GoRoute(
-      path: '/about-me',
-      builder: (context, state) {
-        return const AboutMeView();
       },
     ),
     GoRoute(
